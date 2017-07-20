@@ -1,0 +1,66 @@
+.game {
+  margin: auto;
+}
+
+.btn { 
+  margin: auto;
+  margin-top: 50px;
+  display: block;
+}
+
+table {
+  height: 250px;
+  width: 250px;
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 50px;
+}
+
+td {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+h1 {
+  margin: auto;
+  text-align: center;
+}
+
+#upper-left {
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+#upper-middle {
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+}
+
+#upper-right {
+  border-bottom: 5px solid black;
+}
+
+#left {
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+}
+
+#middle {
+  border-bottom: 5px solid black;;
+  border-right: 5px solid black;
+}
+
+#right {
+  border-bottom: 5px solid black;
+}
+
+#bottom-left {
+  border-right: 5px solid black;
+}
+
+#bottom-middle {
+  border-right: 5px solid black;
+}
